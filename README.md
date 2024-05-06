@@ -29,9 +29,9 @@ So, if you're ready to embark on a coding adventure filled with laughter, challe
 #
 
 ### 📊 Stat
-[Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Macmilan24&show_icons=true&theme=gruvbox)
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Macmilan24&show_icons=true&theme=gruvbox)
 
-[GitHub Streak](https://streak-stats.demolab.com?user=Macmilan24&theme=dark&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=Macmilan24&theme=dark&border_radius=4.5)
 #
 
 <details>
