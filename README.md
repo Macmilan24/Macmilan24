@@ -10,7 +10,7 @@ So, if you're ready to embark on a coding adventure filled with laughter, challe
 
 ---
 
-### 👩‍💻 Language And Tools
+### <> Language And Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -35,7 +35,7 @@ So, if you're ready to embark on a coding adventure filled with laughter, challe
 #
 
 <details>
-<summary><h1>👩‍💻 Samuel's Coding Journey</h1></summary>
+<summary><h1>👨‍💻 Samuel's Coding Journey</h1></summary>
 
 Let me take you on a journey through the labyrinth of code, where every line written is a step closer to mastery. Like many computer science students, my journey began with the basics – learning the fundamentals of programming languages and algorithms. But what sets me apart is my insatiable curiosity for web development.
 
