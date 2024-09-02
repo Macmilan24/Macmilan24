@@ -15,7 +15,7 @@ I'm a passionate and dedicated fourth-year Computer Science student at Unity Uni
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Macmilan24&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
+[![](https://visitcount.itsvg.in/api?id=Macmilan24&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
