@@ -1,48 +1,21 @@
-# Samuel Dagne
+# 💫 About Me:
+I'm a passionate and dedicated fourth-year Computer Science student at Unity University. Over the past year and a half, I've been honing my skills in full-stack web development, particularly excelling in JavaScript, React, and Next.js. My journey has taken me through various technologies, including HTML, CSS, C++, PHP, Firebase, and MongoDB.<br><br>Currently, I'm diving into the realms of AI engineering and data science, aiming to expand my expertise and tackle new challenges. My recent projects include developing a metro ticketing system and working on a flashcard generation system with an amazing dark-themed design.
 
-## `Code craftsman in the making.` ##
 
-Hey there! I'm a 20-year-old computer science student, navigating the labyrinth of academia with my trusty keyboard and a perpetually refilled cup of coffee. From the moment I wrote my first 'Hello, World!' program, I knew I was hooked. Now, as a third-year student, I'm knee-deep in the world of full-stack web development, and let me tell you, it's a wild ride. Picture me, surrounded by lines of code and stacks of textbooks, fueled by equal parts determination and caffeine. They say debugging is like finding a needle in a haystack – but I've got a knack for turning haystacks into neatly organized libraries, one bug at a time.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/samuel-dagne-b524a1270) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Extra-Leading-4922/) 
 
-But hey, it's not all serious business. When I'm not busy wrestling with code, you'll find me cracking jokes that only programmers would understand. Because let's face it, if we can't laugh at our endless loops and misplaced semicolons, what's the point? And speaking of points, let me tell you, I'm on a mission to make every line of code count. Whether I'm crafting a sleek user interface or optimizing database queries, I approach each challenge with a blend of creativity and precision. Because in this fast-paced world of technology, it's not just about writing code – it's about crafting digital experiences that leave a lasting impression.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Macmilan24&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Macmilan24&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Macmilan24&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-So, if you're ready to embark on a coding adventure filled with laughter, challenges, and maybe a few late-night debugging sessions, then you've come to the right place. Grab a seat, pour yourself a virtual cup of coffee, and let's dive headfirst into the exhilarating world of web development together!
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Macmilan24&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### <> Language And Tools
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="BootStap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-<br />
-
-#
-
-### 📊 Stat
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Macmilan24&show_icons=true&theme=holi)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Macmilan24&theme=holi&border_radius=4.5)
-#
-
-<details>
-<summary><h1>👨‍💻 Samuel's Coding Journey</h1></summary>
-
-Let me take you on a journey through the labyrinth of code, where every line written is a step closer to mastery. Like many computer science students, my journey began with the basics – learning the fundamentals of programming languages and algorithms. But what sets me apart is my insatiable curiosity for web development.
-
-It all started with a fascination for front-end design, where I dipped my toes into the world of frameworks like Bootstrap and Tailwind CSS. With each project, I honed my skills in crafting beautiful and responsive user interfaces, learning the art of blending aesthetics with functionality.
-
-But I didn't stop there. Eager to dive deeper into the world of web development, I ventured into the realm of back-end technologies. Node.js became my new playground, empowering me to build server-side applications with ease. And with Express.js as my trusty companion, I delved into the world of RESTful APIs, mastering the art of handling HTTP requests and building scalable back-end architectures.
-
-Yet, my journey didn't reach its pinnacle until I discovered React.js – the powerhouse of modern web development. With React, I unlocked the ability to build dynamic and interactive user interfaces, seamlessly integrating front-end and back-end technologies to create robust web applications.
-
-But my journey is far from over. With each passing day, I continue to expand my repertoire of skills, exploring new technologies and pushing the boundaries of what's possible in the world of web development. So join me as I embark on this ever-evolving adventure, where the only limit is my imagination
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
